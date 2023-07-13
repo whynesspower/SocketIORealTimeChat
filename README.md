@@ -1,5 +1,5 @@
-<h1>RealTime Chat Application - LetsChat</h1>
-
+<h1>Socket IO Simple Real Time chat application</h1>
+Whynesspower 
 <ul>
 <li>It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.</li>
 <li>FrontEnd Technologies- HTML, CSS</li>
@@ -33,9 +33,9 @@
 </ol>
 
 # User 1: Yashraj Shukla
+![image](https://github.com/whynesspower/SocketIORealTimeChat/assets/77494053/e8a05256-2542-4656-9f5b-432d637c36d3)
 
-![Screenshot (18)](https://user-images.githubusercontent.com/49724597/87877500-56988880-c9fc-11ea-9e09-306a95deb2cb.png)
 
 # User 2: Deskpande
 
-![Screenshot (19)](https://user-images.githubusercontent.com/49724597/87877502-57c9b580-c9fc-11ea-9ad4-fbe7aac19a47.png)
+![image](https://github.com/whynesspower/SocketIORealTimeChat/assets/77494053/211fc892-40dd-4b18-9228-590a28086349)
