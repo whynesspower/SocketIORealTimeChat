@@ -22,6 +22,7 @@
 </ul>
 
 # Process to run the app
+
 <ol>
   <li> run <b>nodemon nodeserver/index.js</b>
   <li> Install the extension 'live server' for Vs Code. Extension Id - <b>ritwickdey.liveserver </b>
@@ -31,8 +32,10 @@
   <li> Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
 </ol>
 
-# User 1: Mayank Chaudhary
+# User 1: Yashraj Shukla
+
 ![Screenshot (18)](https://user-images.githubusercontent.com/49724597/87877500-56988880-c9fc-11ea-9e09-306a95deb2cb.png)
 
-# User 2: Harry
+# User 2: Deskpande
+
 ![Screenshot (19)](https://user-images.githubusercontent.com/49724597/87877502-57c9b580-c9fc-11ea-9ad4-fbe7aac19a47.png)
